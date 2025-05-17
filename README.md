@@ -105,8 +105,6 @@ This project was developed with the assistance of [Augment AI Coder](https://aug
 - Project structure and organization
 - Implementation of authentication logic
 - Theme switching functionality
-- Responsive design
-- Code optimization and cleanup
 
 ## License
 
